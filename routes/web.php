@@ -23,6 +23,6 @@ Route::get('/login', function () {
 });
 
 
-Route::get('/ghgh', function () {
+Route::get('/ghgddfdh', function () {
     return view('login');
 });
